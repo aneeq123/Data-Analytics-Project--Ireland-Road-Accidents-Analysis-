@@ -25,28 +25,28 @@ I focused on various aspects of the data, including:
 
 1.  **Annual Fatalities in Road Accidents in Ireland**: This provides an overall count of fatalities due to road accidents on an annual basis in Ireland from 2005 to 2012. The count is aggregated for all user categories and counties, and it helps observe the trend of road fatalities over this time period.
 
-   ![pic1](images/pic1.PNG)
+   ![pic1](pics/pic1.PNG)
 
  
 2. **Irish Counties (Regions in Ireland) with the Highest and Lowest Road Fatalities among Road Users**: This part of the analysis identifies the counties in Ireland that have the highest and lowest counts of road fatalities. This can help in understanding regional differences and could be vital for policy implementation at a regional level.
 
-   ![pic2](images/pic2.PNG)
+   ![pic2](pics/pic2.PNG)
 
 3.  **Road User Category and Associated Fatalities**: In this analysis, road fatalities are broken down according to different road user categories such as drivers, passengers, pedestrians, and cyclists. This provides insights into which user group is most prone to fatal accidents, and can guide measures tailored to these specific groups.
 
-  ![pic3](images/pic3.PNG)
+  ![pic3](pics/pic3.PNG)
 
 4.  **Annual Casualty Counts by Age Group (2005-2012)**: This part of the analysis categorizes the casualties based on age groups, and counts them for each year from 2005 to 2012. This helps to identify which age groups are most affected by road accidents, and can help guide age-specific road safety campaigns.
 
-![pic4](images/pic4.PNG)
+![pic4](pics/pic4.PNG)
 
 5.  **Gender Analysis of Car Drivers Involved in Fatal and Injury Collisions**: This analysis focuses on the gender distribution among drivers who were involved in fatal and injury collisions. It helps to understand if there's a significant gender disparity in these occurrences and could inform gender-focused driving safety initiatives.
 
- ![pic5](images/pic5.PNG)
+ ![pic5](pics/pic5.PNG)
 
 6.  **Monthly Road Fatalities Analysis**: This exploration uncovers patterns in road fatalities on a monthly basis. This can reveal whether certain months have higher fatalities, possibly due to factors such as weather conditions or holiday travel, and can help in scheduling public safety campaigns at appropriate times of the year.
 
-![pic6](images/pic6.PNG)
+![pic6](pics/pic6.PNG)
 
 
 ## 5. Future Work
