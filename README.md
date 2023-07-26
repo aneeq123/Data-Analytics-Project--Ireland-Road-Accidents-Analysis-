@@ -24,7 +24,7 @@ I focused on various aspects of the data, including:
 
 
 1.  **Annual Fatalities in Road Accidents in Ireland**: This provides an overall count of fatalities due to road accidents on an annual basis in Ireland from 2005 to 2012. The count is aggregated for all user categories and counties, and it helps observe the trend of road fatalities over this time period.
-   
+ 
 2. **Irish Counties (Regions in Ireland) with the Highest and Lowest Road Fatalities among Road Users**: This part of the analysis identifies the counties in Ireland that have the highest and lowest counts of road fatalities. This can help in understanding regional differences and could be vital for policy implementation at a regional level.
 
 3.  **Road User Category and Associated Fatalities**: In this analysis, road fatalities are broken down according to different road user categories such as drivers, passengers, pedestrians, and cyclists. This provides insights into which user group is most prone to fatal accidents, and can guide measures tailored to these specific groups.
